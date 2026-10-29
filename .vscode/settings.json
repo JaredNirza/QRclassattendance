@@ -1,0 +1,8 @@
+{
+    "csharp-dev-tools.solutionViewer.selectedWorkspaceSolutions": [
+        "build/windows/x64/my_project.slnx",
+        "build/windows/x64/runner/runner.slnx",
+        "build/windows/x64/plugins/cloud_firestore/cloud_firestore.slnx",
+        "build/windows/x64/plugins/firebase_core/firebase_core.slnx"
+    ]
+}
